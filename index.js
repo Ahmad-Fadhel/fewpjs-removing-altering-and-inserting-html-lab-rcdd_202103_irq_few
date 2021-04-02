@@ -1,5 +1,5 @@
 // Write your code here!
-let newHeader;
+document.body.appendChild(docum)
 main.remove();
-newHeader = document.getElementById("h1#victory");
+let newHeader = document.getElementById("h1#victory");
 newHeader.innerHTML = "YOUR-NAME is the champion";
