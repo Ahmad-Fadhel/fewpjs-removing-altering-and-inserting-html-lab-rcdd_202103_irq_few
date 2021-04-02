@@ -1,2 +1,2 @@
 // Write your code here!
-let element = document.querySelector();
+let element = document.getElementById(#main);
