@@ -1,5 +1,7 @@
 // Write your code here!
-document.body.appendChild(docum)
+let h1 = document.createElement('h1');
+h1.setAttribute('id', 'victory')
+document.body.appendChild(h1);
 main.remove();
 let newHeader = document.getElementById("h1#victory");
 newHeader.innerHTML = "YOUR-NAME is the champion";
