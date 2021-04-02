@@ -1,4 +1,4 @@
 // Write your code here!
 
 main.remove();
-let newHeader = 
+let newHeader = document.getElementById(h1#victory);
