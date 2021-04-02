@@ -2,4 +2,4 @@
 
 main.remove();
 let newHeader = document.getElementById("h1#victory");
-newHeader.innerHTML = 
+newHeader.innerHTML = "YOUR-NAME is the champion";
