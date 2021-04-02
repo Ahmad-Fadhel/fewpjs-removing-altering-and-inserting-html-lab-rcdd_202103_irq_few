@@ -1,4 +1,4 @@
 // Write your code here!
 
 main.remove();
-let newHeader = main.classList.add("h1#victory");
+let newHeader = document.body.appendChild("h1#victory");
