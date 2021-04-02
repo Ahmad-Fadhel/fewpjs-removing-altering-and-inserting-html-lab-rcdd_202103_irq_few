@@ -1,4 +1,5 @@
 // Write your code here!
 
 main.remove();
-let newHeader = document.body.appendChild("h1#victory");
+let newHeader = document.getElementById("h1#victory");
+newHeader.innerHTML = 
